@@ -1,3 +1,5 @@
+const THREE_MINS: u16 = 60 * 3;
+
 fn main() {
     let x = 5;
     println!("The value of x is: {}", x);
