@@ -1,2 +1,2 @@
-[Brown rust-book](https://rust-book.cs.brown.edu/ch04-02-references-and-borrowing.html#the-borrow-checker-finds-permission-violations)
+[Brown rust-book](https://rust-book.cs.brown.edu/ch04-05-ownership-recap.html)
 [Checkpoint](https://doc.rust-lang.org/stable/book/ch06-00-enums.html)
