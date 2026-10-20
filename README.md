@@ -1,1 +1,1 @@
-[Brown rust-book cp.](https://rust-book.cs.brown.edu/ch06-03-if-let.html)
+[Brown rust-book cp.](https://rust-book.cs.brown.edu/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html)
