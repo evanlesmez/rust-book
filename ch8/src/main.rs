@@ -1,4 +1,10 @@
+mod problems_8_3;
+
 fn main() {
+    foo();
+}
+
+fn foo() {
     let v1: Vec<i32> = Vec::new();
     let v2 = vec![1, 2, 3];
     let mut v3 = Vec::new();
