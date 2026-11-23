@@ -1,7 +1,11 @@
 mod problems_8_3;
 
 fn main() {
-    foo();
+    let v: Vec<i32> = vec![1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+    println!("{v:#?}");
+    dbg!(problems_8_3::median(&v[..3]));
+    dbg!(problems_8_3::median(&v[..8]));
+    //foo();
 }
 
 fn foo() {
